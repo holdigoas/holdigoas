@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Systems Engineer From Peru 🇵🇪</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HDS2904&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=holdigoas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ### 📊 My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HDS2904&layout=compact&theme=radical)](https://github.com/HDS2904/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holdigoas&layout=compact&theme=radical)](https://github.com/holdigoas/github-readme-stats)
 
 ---
 
